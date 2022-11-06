@@ -1,13 +1,14 @@
 {
   "name": "hexlet-jasc",
   "version": "1.0.0",
+  "type":"module",
   "description": "\"Мой второй проект на Хекслете\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "git+https://github.com/VaFed/hexlet-jasc.git"
   },
   "author": "",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/VaFed/hexlet-jasc/issues"
   },
-  "homepage": "https://github.com/VaFed/hexlet-jasc#readme"
+  "homepage": "https://github.com/VaFed/hexlet-jasc#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

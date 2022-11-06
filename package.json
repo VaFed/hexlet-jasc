@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-jasc",
+  "version": "1.0.0",
+  "description": "\"Мой второй проект на Хекслете\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/VaFed/hexlet-jasc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaFed/hexlet-jasc/issues"
+  },
+  "homepage": "https://github.com/VaFed/hexlet-jasc#readme"
+}
